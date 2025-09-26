@@ -2,6 +2,7 @@ package lists;
 
 import javax.swing.*;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Collections;
 import java.util.Iterator;
 
@@ -49,5 +50,11 @@ public class ArrayListLang {
         while (itr.hasNext()) {
             System.out.println(itr.next());
         }
+
+
+
+        Object[] arr = list.toArray();
+        System.out.println(arr);
+        System.out.println(Arrays.toString(arr));
     }
 }

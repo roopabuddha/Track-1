@@ -37,7 +37,7 @@ public class Employee implements Comparable {
 
     @Override
     public int compareTo(Object o) {
-        int nxtId = ((Employee)o).getId();
+        int nxtId = ((Employee) o).getId();
         return this.id - nxtId;
     }
 

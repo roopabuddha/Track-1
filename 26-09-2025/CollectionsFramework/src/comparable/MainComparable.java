@@ -1,6 +1,8 @@
 package comparable;
 
 import java.sql.SQLOutput;
+import java.util.Arrays;
+import java.util.Iterator;
 import java.util.Scanner;
 
 public class MainComparable {
@@ -25,6 +27,13 @@ public class MainComparable {
 
             employees[index] = new Employee(id, name, age);
             System.out.println("Employee details: " + employees[index]);
+
+        }
+
+        Arrays.sort(employees);
+        System.out.println("Employee details: ");
+        for (int i = 0; i <= employees.length - 1; i++) {
+            System.out.println(employees[i]);
         }
 
     }
