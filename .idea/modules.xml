@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/23-09-2025/23-09-2025.iml" filepath="$PROJECT_DIR$/23-09-2025/23-09-2025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24-09- 2025/24-09- 2025.iml" filepath="$PROJECT_DIR$/24-09- 2025/24-09- 2025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23-09-2025/24-09-2025/24-09-2025.iml" filepath="$PROJECT_DIR$/23-09-2025/24-09-2025/24-09-2025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/25-09-2025/25-09-2025.iml" filepath="$PROJECT_DIR$/25-09-2025/25-09-2025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/26-09-2025/26-09-2025.iml" filepath="$PROJECT_DIR$/26-09-2025/26-09-2025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/26-09-2025/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/26-09-2025/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23-09-2025/Arrays/Arrays2.iml" filepath="$PROJECT_DIR$/23-09-2025/Arrays/Arrays2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24-09- 2025/Assignment/Assignment.iml" filepath="$PROJECT_DIR$/24-09- 2025/Assignment/Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/25-09-2025/Assignment/Assignment2.iml" filepath="$PROJECT_DIR$/25-09-2025/Assignment/Assignment2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23-09-2025/Assignments/Assignments.iml" filepath="$PROJECT_DIR$/23-09-2025/Assignments/Assignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/26-09-2025/CollectionsFramework/CollectionsFramework.iml" filepath="$PROJECT_DIR$/26-09-2025/CollectionsFramework/CollectionsFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/25-09-2025/Concurrency/Concurrency.iml" filepath="$PROJECT_DIR$/25-09-2025/Concurrency/Concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/22-09-2025/DataTypes-Assignment/DataTypes-Assignment.iml" filepath="$PROJECT_DIR$/22-09-2025/DataTypes-Assignment/DataTypes-Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/22-09-2025/DataTypess/DataTypess.iml" filepath="$PROJECT_DIR$/22-09-2025/DataTypess/DataTypess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaWorkspace.iml" filepath="$PROJECT_DIR$/.idea/JavaWorkspace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/25-09-2025/LambdaExpressions/LambdaExpressions.iml" filepath="$PROJECT_DIR$/25-09-2025/LambdaExpressions/LambdaExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23-09-2025/oops/oops.iml" filepath="$PROJECT_DIR$/23-09-2025/oops/oops.iml" />
+    </modules>
+  </component>
+</project>
