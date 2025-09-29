@@ -2,7 +2,7 @@ package com.Inheritance;
 
 public class MainEmployeeManagement {
     public static void main(String[] args) {
-        Employee manager = new Manager(123,"Virat kohli",100000);
+        Employee manager = new Manager(123,"Virat Kohli",100000);
         manager.calculateBonus();
         manager.displayEmloyeeDetails();
 
