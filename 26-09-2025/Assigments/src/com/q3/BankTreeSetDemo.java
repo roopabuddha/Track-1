@@ -20,6 +20,7 @@ public class BankTreeSetDemo {
         System.out.println("\nFirst customer: " + accounts.first());
         System.out.println("Last customer: " + accounts.last());
 
+
         // Check if a customer exists
         boolean exists = accounts.stream().anyMatch(acc -> acc.getCustomerName().equals("Rupa"));
         System.out.println("\nDoes Rupa exist? " + (exists ? "Yes" : "No"));
