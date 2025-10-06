@@ -7,6 +7,7 @@ public class Consumer extends Thread {
         new Thread(this,"Consumer").start();
     }
 
+    @Override
     public void run() {
         while(true) {
             queue.get(); //synchronized method
